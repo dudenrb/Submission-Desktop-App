@@ -1,6 +1,6 @@
 # Submission-Desktop-App
 
-Certainly! Here's a comprehensive `README.md` file for both the Desktop App and the Backend Server:
+Certainly! Here's a comprehensive `README.md` file.
 
 ## Desktop App Description
 
